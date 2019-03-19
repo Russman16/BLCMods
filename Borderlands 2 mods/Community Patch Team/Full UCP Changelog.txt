@@ -23,12 +23,12 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 2.	Majorly buffed Bandit Assault Rifle's weapon type (increased Reload Speed, Fire Rate and Damage for less Magazine Size).
 3.	Buffed the Torgue Barrel for Assault Rifles to do more Damage, made them consume only 2 Ammo per Shot instead of 3(4) per Shot (except the KerBlaster) and changed their Damage to Grenade Damage (30% for some, 40% for others).
 4.	Fixed E-Tech Assault Rifles and gave them Penetrating Bullets.
-5.	Fixed the Stomperís Critical Hit Damage and made it a Gatling Gun.
+5.	Fixed the Stomper‚Äôs Critical Hit Damage and made it a Gatling Gun.
 6.	Removed all the penalties of the Evil Smasher and made it an above average Assault Rifle. 
 7.	Made the KerBlaster's main projectile deal Grenade Damage.
 8.	Made the CHOPPER consume 4 Ammo per Shot instead of 6 and gave it 10% more Damage.
 9.	Made the Veruc consume 1 Ammo per Shot and tightened its Bullet Spread by ~40%
-10.	Removed the Boom Puppyís Self Damage and increased its Damage by 190%, slightly increased its Fire Rate and made it deal Grenade Damage.
+10.	Removed the Boom Puppy‚Äôs Self Damage and increased its Damage by 190%, slightly increased its Fire Rate and made it deal Grenade Damage.
 11.	Buffed the Bearcat's Damage by 50%, Fire Rate by 40% and made it deal Grenade Damage.
 12.	Buffed the Shredifier's Damage by 15%.
 13.	Buffed the Seraphim's Damage by 180%, removed the Accuracy and Reload Speed penalty and increased its Projectile Speed by 40%.
@@ -51,7 +51,7 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 11.	Removed all the penalties of the God-Finger and made it non-bolt action.
 12.	Removed all the penalties of the Patriot and increased its Damage by 40%.
 13.	Reduced Pitchfork's Damage penalty by ~40%.
-14.	Gave the ChËre-amie Splash Damage, gave it proper matching Barrel bonuses, increased its Healing to 4%, removed all its penalties, increased its Critical Hit Damage by 20% and gave it the Maliwan crosshair when aiming down sights (Reduced Transfusion heals from 15% to 7% to compensate).
+14.	Gave the Ch√®re-amie Splash Damage, gave it proper matching Barrel bonuses, increased its Healing to 4%, removed all its penalties, increased its Critical Hit Damage by 20% and gave it the Maliwan crosshair when aiming down sights (Reduced Transfusion heals from 15% to 7% to compensate).
 15.	Made the Storm deal actual Splash Damage, buffed its Damage, Fire Rate and Damage over Time and made its orbs deal 20% of the Damage dealt instead of the original 10%.
 16.	Buffed the Invader's Damage by 70%.
 17.	Buffed the Hawk Eye's Damage by 58%.
@@ -62,18 +62,18 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 2.	Made Bandit Sights on Rocket Launchers increase Magazine Size.
 3.	Made Torgue Sights on Rocket Launchers increase Damage.
 4.	Made Tediore Barrels on Rocket Launchers give a tiny Reload Speed increase instead of nothing.
-5.	Increased the 12 Pounderís Magazine Size by 1.
+5.	Increased the 12 Pounder‚Äôs Magazine Size by 1.
 6.	Made the Ahab deal Explosive Damage.
 7.	Made the Hive consume 2 Ammo per Shot instead of 4.
 8.	Gave the Roaster the Bandit Barrel, increased its Status Effect Chance by 80% (not directly added on top), increased Status Effect Damage by 25% and gave it the stats of a Purple Bandit Rocket Launcher.
-9.	Buffed the Bunnyís Damage, Fire Rate and Magazine Size and removed the Self Damage.
+9.	Buffed the Bunny‚Äôs Damage, Fire Rate and Magazine Size and removed the Self Damage.
 10.	Buffed the Tunguska's Damage by 30% and removed its Self-Damage on the big radius. 
 11.	Buffed the Mongol's Damage by 10% and increased its Fire Rate.
 12.	Buffed the Pyrophobia's Status Effect Chance by 90% (not directly added on top), increased Status Effect Damage, increased the Nova's radius by 50% and their Damage by 25% and made them spawn more frequently.
 
 ************************Shotguns************************
 1.	Introduced the Flayer from Borderlands: The Pre-Sequel as an optional replacement for the Tidal Wave (can be enabled with BLCMM).
-2.	Removed the Critical Hit Damage Prefix from E-Tech shotguns and the Carnage because they canít Crit (existing E-Tech shotguns and Carnagesí with Critical Hit Damage Prefix arenít affected by this).
+2.	Removed the Critical Hit Damage Prefix from E-Tech shotguns and the Carnage because they can‚Äôt Crit (existing E-Tech shotguns and Carnages‚Äô with Critical Hit Damage Prefix aren‚Äôt affected by this).
 3.	E-Tech Shotguns now deal roughly 3x of their previous Damage to compensate for not being able to crit, made them consume 1 ammo per shot, increased their Projectile Speed and the Explosion Radius, made them deal Grenade Damage instead of Rocket Damage and removed the self-damage.
 4.	Adjusted Slow Hand to adapt to the E-Tech Shotgun buffs.
 5.	Adjusted Retcher to adapt to the E-Tech Shotgun buffs.
@@ -90,7 +90,7 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 16.	Tightened the Hydra's Bullet Spread by ~50%.
 17.	Tightened the Tidal Wave's Bullet Spread by ~60% and made it fire from the middle of the arc instead of the peak. Doubled its Projectile Speed, gave it 30% Critical Hit Damage and more stacked Projectiles. Reduced Magazine Size slightly.
 18.	Buffed the Carnage's Damage by 30%, made it always spawn with 3 Projectiles and made the Vertical Grip Accessory give it massive Recoil Reduction.
-19.	Buffed the Deliveranceís Damage by 30%. 
+19.	Buffed the Deliverance‚Äôs Damage by 30%. 
 20.	Buffed Hyperion Shotguns with Torgue/Bandit Barrels.
 
 ************************Pistols************************
@@ -133,15 +133,15 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 9.	Gave the Commerce the Maliwan Barrel, increased its Damage by 30% and Damage over Time by 60% and quadrupled its Elemental Effect Chance.
 10.	Buffed Tediore SMG Barrels.
 11.	Made the Bone Shredder consume 2 Ammo per Shot and slightly reduced its Accuracy.
-12.	Buffed the HellFireís Splash Radius by 300% and its Damage over Time by 10%.
-13.	Buffed the Avengerís Damage by 20% and made the Ammo regenerate way faster. (5 per second)
-14.	Buffed the Actualizerís Damage by 30% and increased its Reload Speed.
+12.	Buffed the HellFire‚Äôs Splash Radius by 300% and its Damage over Time by 10%.
+13.	Buffed the Avenger‚Äôs Damage by 20% and made the Ammo regenerate way faster. (5 per second)
+14.	Buffed the Actualizer‚Äôs Damage by 30% and increased its Reload Speed.
 15.	Buffed the Emperor's Damage, Fire Rate and also made it spawn with a Sight. 
 16.	Buffed Yellow Jacket's Projectile Speed and Acceleration Speed.
 
 ************************Shields************************
 1.	Introduced the Naught from Borderlands: The Pre-Sequel as an optional replacement for the Cradle (can be enabled with BLCMM).
-2.	Introduced the Bigg Thumppr from Borderlands: The Pre-Sequel as an optional replacement for the Pot oí Gold (can be enabled with BLCMM). This replacer can spawn with all shield parts. (this Sanity Checks, meaning if you load into the game without having the Patch active, your Shield will be lost. You can disable this with BLCMM in the category or disable Sanity Checks with c0dycode's Hex Multitool).
+2.	Introduced the Bigg Thumppr from Borderlands: The Pre-Sequel as an optional replacement for the Pot o‚Äô Gold (can be enabled with BLCMM). This replacer can spawn with all shield parts. (this Sanity Checks, meaning if you load into the game without having the Patch active, your Shield will be lost. You can disable this with BLCMM in the category or disable Sanity Checks with c0dycode's Hex Multitool).
 3.	Added an optional module to reduce the visual clutter of the Flame of the Firehawk. (Thanks the_Nocturni!)
 4.	Fixed a typo on Shields with the "Grounded" Prefix.
 5.	Fixed Deadly Bloom's rarity and skin.
@@ -155,7 +155,7 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 13.	Made the Fabled Tortoise slow you down less (from 80% to 40%) and reduced the Health penalty.
 14.	Made Hide of Terramorphous never spawn with bad parts, and it has a high chance to get the Grounded prefix.
 15.	Reduced the Hoplite's Health penalty.
-16.	Buffed the Shield Capacity and Recharge Rate of the Manly Man Shield, reduced the curse effect, massively increased the Damage dealt and made it scale off Grenade Damage, and made it so youíre completely Immune to Explosive Damage.
+16.	Buffed the Shield Capacity and Recharge Rate of the Manly Man Shield, reduced the curse effect, massively increased the Damage dealt and made it scale off Grenade Damage, and made it so you‚Äôre completely Immune to Explosive Damage.
 17.	Buffed the Evolution's base Healing Rate by x5. (Thanks to Orudeon!)
 18.	Buffed the Neogenator's Healing Rate by x3. (Thanks to Orudeon!)
 19.	Buffed the Cracked Sash.
@@ -164,7 +164,7 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 22.	Buffed the Impaler's Damage.
 23.	Buffed the Transformer's Absorb Chance.
 24.	Removed the Self Damage of the Cradle, made the shield toss faster and set the Shield Recharge Delay to a fixed 0.86 seconds.
-25.	Buffed the Pot oí Gold. Has a chance to drop Eridium now and a very rare chance to drop an Eridium Stack. No longer goes into negative booster chance with some part combinations.
+25.	Buffed the Pot o‚Äô Gold. Has a chance to drop Eridium now and a very rare chance to drop an Eridium Stack. No longer goes into negative booster chance with some part combinations.
 
 ************************Grenades************************
 1.	Doubled the Projectile Speed of Homing Grenades.
@@ -173,8 +173,8 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 4.	Buffed normal Tediore and Bandit Grenades' Damage by 33%.
 5.	Buffed MIRV Grenades.
 6.	Made Slag Grenades slag more reliably.
-7.	Halved the Contraband Sky Rocketís Self Damage and made it scale up to OP8.
-8.	Buffed Captain Bladeís Midnight Starís damage by 200% and increased its Blast Radius by 68.75%.
+7.	Halved the Contraband Sky Rocket‚Äôs Self Damage and made it scale up to OP8.
+8.	Buffed Captain Blade‚Äôs Midnight Star‚Äôs damage by 200% and increased its Blast Radius by 68.75%.
 9.	Buffed the Rolling Thunder's Damage by 25%, made it not damage you and increased its Splash Radius by 100.
 10.	Buffed the Nasty Surprise.
 11.	Buffed the Breath of Terra.
@@ -197,10 +197,10 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 
 ************************COMs************************
 1.	Changed the Slayer of Terramorphous COMs to boost Incendiary Damage instead of Burn Damage, boosting both Impact and Damage over Time.
-2.	Implemented SirUmneiís Presentation Arrays and Icons for COMs.
+2.	Implemented SirUmnei‚Äôs Presentation Arrays and Icons for COMs.
 
 ************************Axton COMs************************
-1.	Axtonís Slayer of Terramorphous COM now boosts Sentry, Able, Impact, Battlefront and Pressure instead of Onslaught, Able, Impact, Healthy and Preparation.
+1.	Axton‚Äôs Slayer of Terramorphous COM now boosts Sentry, Able, Impact, Battlefront and Pressure instead of Onslaught, Able, Impact, Healthy and Preparation.
 2.	Fixed Rifleman/Engineer/Tactician/Legendary Engineer not boosting Battlefront correctly.
 3.	Added Legendary Grenadier COM as an optional replacement for the Legendary Pointman COM (can be enabled with BLCMM).
 4.	Legendary Ranger COM now boosts Onslaught properly. (Thanks to MegaCyber!)
@@ -210,18 +210,18 @@ NOTE: Status Effect Chance not being added directly on top means its multiplied 
 8.	Shock Trooper COM now boosts Kill Skill Duration and Shield Recharge Rate.
 
 ************************Maya COMs************************
-1.	Mayaís Slayer COM now boosts Inertia, Immolate, Helios, Chain Reaction and Blight Phoenix instead of Ward, Inertia, Mindís Eye, Wreck and Elated.
+1.	Maya‚Äôs Slayer COM now boosts Inertia, Immolate, Helios, Chain Reaction and Blight Phoenix instead of Ward, Inertia, Mind‚Äôs Eye, Wreck and Elated.
 
 ************************Salvador COMs************************
-1.	Salvadorís Slayer COM now boosts Quick Draw, Lay Waste, Last Longer, Hard to Kill and Incite.
-Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus instead of Out of Bubblegum and Locked and Loaded.
+1.	Salvador‚Äôs Slayer COM now boosts Quick Draw, Lay Waste, Last Longer, Hard to Kill and Incite.
+Legendary Titan COM now boosts Ain‚Äôt Got Time to Bleed and Sexual Tyrannosaurus instead of Out of Bubblegum and Locked and Loaded.
 2.	Beast COM now boosts Ain't Got Time to Bleed instead of Just Got Real, and has multiplicative Health bonuses.
 3.	Titan COM now boosts Sexual Tyrannosaurus instead of Out of Bubblegum.
 4.	Raider COM boosts Weapon Accuracy in general instead of Assault Rifle Weapon Accuracy.
 5.	Renegade COM now boosts Pistol Accuracy instead of reducing it.
 
 ************************Zer0 COMs************************
-1.	Zer0ís Slayer COM now boosts 0ne Sh0t 0ne Kill, Grim, Ambush, Innervate and Killing Bl0w instead of HeadSh0t, 0ne Sh0t 0ne Kill, Fast Hands, Grim and Killing Bl0w.
+1.	Zer0‚Äôs Slayer COM now boosts 0ne Sh0t 0ne Kill, Grim, Ambush, Innervate and Killing Bl0w instead of HeadSh0t, 0ne Sh0t 0ne Kill, Fast Hands, Grim and Killing Bl0w.
 2.	Legendary Sniper COM now boosts Fast Hands instead of Kill C0nfirmed.
 2.	Spy COM now boosts Cooldown Rate by a lot more.
 3.	Survivor COM now boosts Innervate instead of Resurgence, and has multiplicative Health bonuses.
@@ -231,14 +231,14 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 7.	Rogue COM now boosts Fearless instead of Like The Wind.
 
 ************************Gaige COMs************************
-1.	Gaigeís Slayer COM now boosts Electrical Burn, Evil Enchantress, Interspersed Outburst, Preshrunk Cyberpunk and Typecast Iconoclast instead of Cooking Up Trouble, Fancy Mathematics, The Better Half, Interspersed Outburst and Preshrunk Cyberpunk.
+1.	Gaige‚Äôs Slayer COM now boosts Electrical Burn, Evil Enchantress, Interspersed Outburst, Preshrunk Cyberpunk and Typecast Iconoclast instead of Cooking Up Trouble, Fancy Mathematics, The Better Half, Interspersed Outburst and Preshrunk Cyberpunk.
 2.	Legendary Anarchist COM now boosts Better Half instead of Strength of Five Gorillas. (UI currently broken, but still buffs the skill)
 3.	Anarchist COM now boost Myelin, Smaller, Lighter, Faster and The Better Half instead of Fancy Mathematics, Death From Above and Annoyed Android.
 4.	Sweetheart COM now boosts Fancy Mathematics instead of More Pep.
 5.	Punk COM now boosts Death from Above instead of Annoyed Android.
 
 ************************Krieg COMs************************
-1.	Kriegís Slayer COM now boosts Blood Filled Guns, Feed the Meat, Burn Baby Burn, Pain is Power and Elemental Elation instead of Feed the Meat, Thrill of the Kill, Strip the Flesh, Burn Baby Burn and Flame Flare.
+1.	Krieg‚Äôs Slayer COM now boosts Blood Filled Guns, Feed the Meat, Burn Baby Burn, Pain is Power and Elemental Elation instead of Feed the Meat, Thrill of the Kill, Strip the Flesh, Burn Baby Burn and Flame Flare.
 2.	Legendary Sickle COM now boosts Fire Fiend instead of Pain is Power.
 3.	Crunch COM now boosts Salt the Wound instead of Blood Trance.
 4.	Slab COM has multiplicative Health bonuses now.
@@ -303,7 +303,7 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 1.	Gave Blue Vladof Shields their own skin.
 
 ************************Sheep (Kazy)************************
-1.	Implemented Sheepís Legendary COM Reskin to make them resemble more like their non-Legendary counterparts.
+1.	Implemented Sheep‚Äôs Legendary COM Reskin to make them resemble more like their non-Legendary counterparts.
 2.	Fixed the inconsistent red text colors on some weapons and items.
 
 ************************Mike (soze)************************
@@ -320,8 +320,8 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 6.	Made the Raid on Digistruct Peak reward be an E-Tech instead of a purple.
 7.	Made Lilith give you a choice of a blue COM in TVHM and above after the Hunting the Firehawk quest.
 8.	Made Roland give you a blue COM (instead of green) in TVHM after the Bright Lights, Flying City quest.
-9.	Made Grandma Flexingtonís Story gives you a random purple Shield instead of $1.
-10.	Made the Bandit, Creature and Hyperion Slaughterís round 5 repeatable.
+9.	Made Grandma Flexington‚Äôs Story gives you a random purple Shield instead of $1.
+10.	Made the Bandit, Creature and Hyperion Slaughter‚Äôs round 5 repeatable.
 11.	Michael Mamaril gives you purples all the time now, and has a 10% chance to give you a legendary.
 12.	Made Moxxi have a 20% chance to give you a Bad Touch instead of a Good Touch.
 13.	Made Varkids have an increased chance of evolving.
@@ -336,11 +336,11 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 22.	Added new Items to the loading screen display and removed White / Green items from them.
 23.	Made Assault Rifle Ammo Drops give you to 21/42 Ammo instead of 18/36.
 24.	Fixed broken shields-only configuration in treasure chests.
-25.	Made ìHyperion Contract #873î repeatable.
-26.	Made ìWalking The Dogî repeatable.
-27.	Made ìTreasure of The Sandsî repeatable.
+25.	Made ‚ÄúHyperion Contract #873‚Äù repeatable.
+26.	Made ‚ÄúWalking The Dog‚Äù repeatable.
+27.	Made ‚ÄúTreasure of The Sands‚Äù repeatable.
 28.	Made "The Amulet" repeatable.
-29.	Made ìYou. Will. Die. (Seriously.)î be level 38 in Normal Mode, making Terramorphous the Invincible level 40 in Normal Mode.
+29.	Made ‚ÄúYou. Will. Die. (Seriously.)‚Äù be level 38 in Normal Mode, making Terramorphous the Invincible level 40 in Normal Mode.
 30.	Fixed the Hyperius Gate Glitch (more or less).
 31.	Made Buttstalion only drop Rares and above Gear.
 32.	Made the Bagman respawn.
@@ -371,7 +371,7 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 9.	Made Boll able to world drop.
 10.	Increased the chance for Warlord Slog to drop the Ogre.
 11.	Improved chance for the Splinter Group to drop a Storm Front from 2.5% to 7.5% per Rat.
-12.	Removed the two heads from Warriorís lootpool and made it less crowded.
+12.	Removed the two heads from Warrior‚Äôs lootpool and made it less crowded.
 13.	Badassasaurus Rex drops 15 Torgue Tokens now.
 14.	Made the Torgue DLC Vault Explosion drop E-Techs and increased its Legendary drop chance.
 15.	Gold Golem has a 7.5% chance to drop the Grog Nozzle now.
@@ -387,7 +387,7 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 25.	Woundspike has a chance to drop the Maggie now.
 26.	GOD-liaths have a chance to drop a legendary weapon now.
 27.	Iron GOD now drops 3 Gemstone rarity weapons.
-28.	Moved most of Zer0ís Heads and Skins to Bad Maw (to basically allow all of the following loot pool changes).
+28.	Moved most of Zer0‚Äôs Heads and Skins to Bad Maw (to basically allow all of the following loot pool changes).
 29.	Dexiduous the Invincible now always drop one DLC 3 Seraph item.
 30.	Warlord Slog now always drops the Orc.
 31.	Made the Tiny Tina DLC Dragons Raid always drop 4 Gemstone Weapons and added the Seeker to the loot pool.
@@ -397,17 +397,17 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 35.	Prospector Zeke has a chance to drop the Pitchfork and the Fluster Cluck now.
 36.	Sinkhole has a chance to drop the Bitch now. 
 37.	Smash-Head has a chance to drop the Roaster now.
-38.	Mobley and Gettle have a chance to drop Moxxiís Endowment now.
+38.	Mobley and Gettle have a chance to drop Moxxi‚Äôs Endowment now.
 39.	Old Slappy has a chance to drop the Octo now.
 40.	Henry has a chance to drop the Deadly Bloom and the Love Thumper now.
 41.	Blue has a chance to drop the Heart Breaker now.
 42.	Son of Mothrakk has a chance to drop the Trespasser now.
-43.	Muscles has a chance to drop Sledgeís Shotgun now.
+43.	Muscles has a chance to drop Sledge‚Äôs Shotgun now.
 44.	Mad Dog has a chance to drop the Bane now.
-45.	Deputy Winger has a chance to drop the Deputyís Badge and the Order now.
+45.	Deputy Winger has a chance to drop the Deputy‚Äôs Badge and the Order now.
 46.	Geary has a chance to drop the Volcano now.
 47.	Mortar has a chance to drop the Evil Smasher now.
-48.	Dukinoís Mom has a chance to drop the Buffalo now.
+48.	Dukino‚Äôs Mom has a chance to drop the Buffalo now.
 49.	Bone Head has a chance to drop the Shredifier now.
 50.	Saturn has a chance to drop the Lady Fist and the Tidal Wave / Flayer now.
 51.	Grendel has a chance to drop the Rapier now.
@@ -416,7 +416,7 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 54.	Benny The Booster has a chance to drop the Sand Hawk now.
 55.	Toothless Terry has a chance to drop the Pimpernel now.
 56.	P3RV-E has a chance to drop the Bad Touch now.
-57.	H3RL-E has a chance to drop Captain Bladeís Manly Man Shield now.
+57.	H3RL-E has a chance to drop Captain Blade‚Äôs Manly Man Shield now.
 58.	DJ Tanner has a chance to drop the Sham now.
 59.	Roscoe has a chance to drop the Hive now.
 60.	Motor Mama has a chance to drop the Kitten and the Baby Maker now.
@@ -435,18 +435,18 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 73.	Flay, Tribute of Southern Shelf has a chance to drop the Thunderball Fists and the Hornet now.
 74.	Fuse, Tribute of Frostburn has a chance to drop the HellFire and the Neogenator now.
 75.	Cynder, Tribute of Frostburn has a chance to drop the Pyrophobia and the Flame of the Firehawk now.
-76.	Garret, Tribute of Lynchwood has a chance to drop the Order and the Deputyís Badge now.
-77.	Annie, Tribute of Lynchwood has a chance to drop the Law and the Sheriffís Badge now.
+76.	Garret, Tribute of Lynchwood has a chance to drop the Order and the Deputy‚Äôs Badge now.
+77.	Annie, Tribute of Lynchwood has a chance to drop the Law and the Sheriff‚Äôs Badge now.
 78.	Axel, Tribute of Opportunity has a chance to drop the Nasty Surprise, the Invader and Shield 1340 now.
 79.	Rose, Tribute of Opportunity has a chance to drop the Bitch, the Black Hole and Shotgun 1340 now.
 80.	Moretus, Tribute of Sawtooth Cauldron has a chance to drop the Evil Smasher now.
 81.	Sigmand has a chance to drop the Landscaper now.
 82.	Ikaroa has a chance to drop the Veritas now.
 83.	Moby has a chance to drop the Aequitas now.
-84.	Fire Crakín has a chance to drop the Chulainn now.
+84.	Fire Crak‚Äôn has a chance to drop the Chulainn now.
 85.	Rue, The Love Thresher has a chance to drop the Triquetra now.
-86.	Drunk Thresher have a chance to drop the Sloth now (Yeah, boozeíll do that to yaÖ).
-87.	BLNG Loader has a chance to drop Sledgeís Shotgun now.
+86.	Drunk Thresher have a chance to drop the Sloth now (Yeah, booze‚Äôll do that to ya‚Ä¶).
+87.	BLNG Loader has a chance to drop Sledge‚Äôs Shotgun now.
 88.	Bridget Hodunk has a chance to drop the Kiss of Death now.
 89.	Colin Zaford has a chance to drop the Rubi now.
 90.	Shirtless Man has a chance to drop the Afterburner now.
@@ -470,7 +470,7 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 2.	Fixed lots of Skill Presentations and Descriptions.
 
 ************************Axton************************
-1.	Increased Axtonís Turret's Fire Rate by 20%.
+1.	Increased Axton‚Äôs Turret's Fire Rate by 20%.
 
 2.	Made the Turret's Damage and the Turret augmentations scale like an AI, making them have proper Damage throughout the game (similar to console versions of the game).
 2.1.	Bullets, Rockets & part of the Nuke damage: -38% damage at level 5, +14% at level 30, +56% at level 50, +119% at OP8.
@@ -519,13 +519,13 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 13.	Blight Phoenix: Doubled the damage dealt.
 
 ************************Salvador************************
-1.	Fixed Lay Waste/Keep it Piping Hot/5 Shots or 6/Incite/Just Got Real/Iím your Huckleberry not giving off-hand weapons the bonuses.
+1.	Fixed Lay Waste/Keep it Piping Hot/5 Shots or 6/Incite/Just Got Real/I‚Äôm your Huckleberry not giving off-hand weapons the bonuses.
 2.	Auto-Loader: Now also boosts Reload Speed by 15%.
 3.	Hard to Kill: Increased Health Regeneration, 0.2% instead of 0.1% per point.
 4.	I'm the Juggernaut: Increased Damage Reduction, 12% instead of 4% per point.
 
 ************************Zer0************************
-1.	Fixed 0pticsí Aim Steadiness not working properly.
+1.	Fixed 0ptics‚Äô Aim Steadiness not working properly.
 2.	Swapped Grim's and Fearless's position in the skill tree.
 3.	Removed the "increased Gun Critical Damage" text from Decepti0n's description (it technically doesn't exist).
 4.	0ptics: Increased the Aim Steadiness and additionally increases Aiming Speed now, 14% per point.
@@ -564,7 +564,7 @@ Legendary Titan COM now boosts Ainít Got Time to Bleed and Sexual Tyrannosaurus 
 16.	With Claws: Increased Melee Damage to 1.25% per Anarchy stack from 0.6% and now also boosts Swap Speed by 0.625% per Anarchy stack.
 
 ************************Krieg************************
-1.	Returned Kriegís Raving Retribution Rants.
+1.	Returned Krieg‚Äôs Raving Retribution Rants.
 2.	Made Krieg's special Melee Damage scale to OP8 (+6.6% at OP8).
 3.	Added Blood Euphoria (which was an unused but existing skill) as a Bloodlust tier 4 gamechanger for Krieg: Heals for 0.6% Maximum Health per Bloodlust stack when kill skills end.
 4.	Fixed Elemental Elation and Salt the Wound stacks overlapping each other
@@ -589,3 +589,4 @@ These Nerfs can be found and enabled with BLCMM at the bottom of the Patch file.
 6.	Kinetic Reflection: Deflection Chance now increases by 20% per point instead of giving 100% with only one point.
 7.	Cloud Kill: Now does about 10% of its damage at level 16, 17% at level 30, 36% at level 50, 65% at level 72, 78% at OP8. (THESE NUMBERS DON'T CHANGE AT THESE SPECIFIED LEVELS BUT INSTEAD THROUGHOUT THE GAME, THIS IS JUST DEMONSTRATION)
 8.	Duty Calls: Halfed the UCP buff (from 8% Gun Damage / 3% Critical Hit Damage to 4% Gun Damage / 1.5% Critical Hit Damage).
+ 
